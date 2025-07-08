@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  const userId = "747411610389446747";
+  const userId = "1369748015291830362";
   const apiUrl = `https://lanyard.rest/v1/users/${userId}`;
 
   // Music control logic
