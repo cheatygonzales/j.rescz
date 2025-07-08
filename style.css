@@ -362,16 +362,16 @@ header h1 {
   transform: translate(-50%, -50%);
   font-size: 13vw;
   font-family: 'SuperMario256', 'Segoe UI', Arial, sans-serif;
-  color: #a855f7;
+  color: #4ade80; /* Changed from #a855f7 to green shade */
   opacity: 0.13;
   pointer-events: none;
   user-select: none;
   letter-spacing: 0.15em;
   text-shadow:
-    0 0 16px #a855f7,
-    0 0 32px #a855f7,
-    0 0 64px #a855f7,
-    0 0 128px #a855f7;
+    0 0 16px #4ade80, /* Changed from #a855f7 */
+    0 0 32px #4ade80, /* Changed from #a855f7 */
+    0 0 64px #4ade80, /* Changed from #a855f7 */
+    0 0 128px #4ade80; /* Changed from #a855f7 */
   z-index: 0;
 }
 
